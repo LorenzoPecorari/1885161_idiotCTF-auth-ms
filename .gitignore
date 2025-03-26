@@ -29,7 +29,7 @@ Thumbs.db
 # Temporary files
 *.tmp
 
-*.db
+**/*.db
 
 /target/
 /environment/
